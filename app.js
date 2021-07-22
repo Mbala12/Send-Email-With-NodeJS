@@ -5,7 +5,7 @@ const app = express();
 const port = 3000;
 const emailfrom = 'kimsfood20@gmail.com';
 const emailto = 'jayapoulah@gmail.com';
-const pwd = process.env.pass || 'KimsKims2020';
+const pwd = process.env.pass || 'XXXXXXXXXXX';
 
 //Email message options
 const mailoptions = {
